@@ -8,7 +8,7 @@
 
 2、代理软件在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位（选择任意一个在线安装即可）。
 
-苹果手机游览器打开 在线安装：【 [Shadowrocket小火箭在线安装]( https://shadowsocks-help.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsocks-help.github.io/Potatso-Lite/) 】
+苹果手机游览器打开 在线安装：【 [Shadowrocket小火箭在线安装]( https://super-ssr.github.io/iOS/) 】| 【 [Potatso Lite代理工具 在线安装]( https://super-ssr.github.io/Potatso-Lite/) 】
 
 3、苹果美区账号分享 详见： [APPLE ID 免费账号共享](appleid.md)
 
@@ -108,4 +108,4 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 3、使用共享账号登录，切记请勿登录iCloud。
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
