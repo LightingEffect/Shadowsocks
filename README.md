@@ -27,7 +27,7 @@
 
 [3] [苹果 iOS 使用 Shadowsocks 设置教程](ios.md)
 
-[4] [苹果 macOS 使用 Shadowsocks 设置教程](mac.md)
+[4] [苹果 MacOS 使用 Shadowsocks 设置教程](mac.md)
 
 [5] [Linux 使用 Shadowsocks 设置教程](linux.md)
 
