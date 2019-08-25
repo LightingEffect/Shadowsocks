@@ -8,7 +8,7 @@
 
 #### 1. 下载客户端
 
-【 [ShadowsocksX-NG 下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.8.2/ShadowsocksX-NG.app.1.8.2.zip)】|【 [Sourceforge 备用下载](https://sourceforge.net/projects/shadowsocksgui/files/dist/ShadowsocksX-2.6.3.dmg/download) 】|【[历史版本](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)】
+【 [ShadowsocksX-NG 下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.8.2/ShadowsocksX-NG.app.1.8.2.zip)】|【[历史版本](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)】
 
 #### 2. 安装客户端
 
@@ -62,4 +62,4 @@
 * **PAC 模式** 表示可以实现自动代理， 及本来可以访问的网站不会经过代理，推荐日常使用。
 * **全局模式** 表示计算机内大多数流量都会经过代理， 不推荐日常使用。
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
