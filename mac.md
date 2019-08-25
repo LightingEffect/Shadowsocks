@@ -1,4 +1,4 @@
-# 苹果 macOS 使用 Shadowsocks 设置教程
+# 苹果 MacOS 使用 Shadowsocks 设置教程
 
 ## 第一步 安装 ShadowsocksX-NG
 
