@@ -62,4 +62,4 @@
 
 ![自定义规则](/img/Firefox4.png)
 
-#### [<< 返回首页](README.md)
+#### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
