@@ -10,7 +10,7 @@
 
 ### GFW 防火墙的出现
 
-然后有一天[ GFW ](https://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B) 就出现了，他像一个收过路费的强盗一样夹在了在用户和服务之间，每当用户需要获取信息，都经过了 GFW，GFW将它不喜欢的内容统统过滤掉，于是客户当触发 GFW 的过滤规则的时候，就会收到 Connection Reset 这样的响应内容，而无法接收到正常的内容。
+然后有一天[ GFW ](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E) 就出现了，他像一个收过路费的强盗一样夹在了在用户和服务之间，每当用户需要获取信息，都经过了 GFW，GFW将它不喜欢的内容统统过滤掉，于是客户当触发 GFW 的过滤规则的时候，就会收到 Connection Reset 这样的响应内容，而无法接收到正常的内容。
 
 ![](/img/shadowsocks02.png)
 
@@ -42,4 +42,4 @@
 
 <hr>
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
