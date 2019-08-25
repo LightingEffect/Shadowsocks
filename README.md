@@ -12,10 +12,10 @@
 
 [1] 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md)  → 3 设置启用即可
 
-[2] 客户端下载：<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-windows.zip" target="_blank">微软Windows</a> | 
-<a href="https://shadowsocks-help.github.io/ios/" target="_blank">苹果iPhone/ipad</a> | 
-<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-android.apk" target="_blank">安卓Android</a> |
-<a href="https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/shadowsocks-mac.zip" target="_blank">苹果Mac</a>
+[2] 客户端下载：<a href="https://github.com/Super-SSR/Shadowsocks/blob/master/Download/shadowsocks-windows.zip" target="_blank">微软Windows</a> | 
+<a href="https://super-ssr.github.io/iOS/" target="_blank">苹果iPhone/ipad</a> | 
+<a href="https://github.com/Super-SSR/Shadowsocks/blob/master/Download/shadowsocks-android.apk" target="_blank">安卓Android</a> |
+<a href="https://github.com/Super-SSR/Shadowsocks/blob/master/Download/shadowsocks-mac.zip" target="_blank">苹果Mac</a>
 
 [3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
@@ -57,4 +57,4 @@
 
 请勿用于非法用途，并对自己的任何行爲进行负责。
 
-#### [<< 返回首页](https://shadowsocks-help.github.io)
+#### [<< 返回首页](https://super-ssr.github.io)
