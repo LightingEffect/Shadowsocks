@@ -5,7 +5,7 @@
 
 ## Shadowosocks-QT5
 
-下面以 Ubuntu 64 位系统做参考，其他系统请参考 [安装指南](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
+下面以 Ubuntu 64 位系统做参考，其他系统请参考 [安装指南](https://github.com/shadowsocks/shadowsocks-qt5/wiki)
 
 ## 第一步 安装 Shadowsocks-Qt5
 按照下面的说明在 Ubuntu 上下载并安装 Shadowsocks-Qt5。
@@ -148,4 +148,4 @@ kill 相应的 pid 即可
 
 <hr>
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
