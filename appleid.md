@@ -31,4 +31,4 @@
 
 如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](https://shadowsocks-help.github.io/Shadowsocks/apple-id.html)
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
