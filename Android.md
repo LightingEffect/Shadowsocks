@@ -2,7 +2,7 @@
 
 ## 第一步 下载 Shadowsocks 客户端
 
-下载：【 推荐 [Shadowsocks-APK文件点击下载直接安装](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.1/shadowsocks-x86-4.8.1.apk)】|【 [Google play 商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://github.com/shadowsocks/shadowsocks-android/releases)】
+下载：【 推荐 [Shadowsocks-APK文件点击下载直接安装](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks--universal-4.8.4.apk)】|【 [Google Play商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://github.com/shadowsocks/shadowsocks-android/releases)】
 
 注意：此软件可能带广告，下载后左滑删去即可
 
@@ -45,4 +45,4 @@
 
 在您信息配置完成后，我们推荐在功能设置中设置「绕过局域网及中国大陆模式」，该模式可以实现自动代理，其他选项不要启用，就可打开游览器访问 www.google.com 网站进行测试。
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
