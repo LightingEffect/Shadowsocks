@@ -269,5 +269,5 @@ Postern是在 Android 上最接近于 Surge 模式的软件，其可以兼容 Su
 
 <hr>
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://super-ssr.github.io)
 
