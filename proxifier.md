@@ -1,56 +1,56 @@
-# Shadowsocks 配合 Proxifier 實現客戶端代理
+# Shadowsocks 配合 Proxifier 实现客戶端代理
 
-## 什麼是 Proxifier
+## 什么是 Proxifier
 
-Proxifier 是一款功能非常強大的 socks5 客戶端，可以讓不支持通過代理服務器工作的網絡程序能通過 HTTPS 或 SOCKS 代理或代理鏈。支持64位系統，支持 XP，Vista，Win7，macOS, 支持 socks4，socks5，http 代理協議，支持 TCP，UDP 協議，可以指定端口，指定 IP，指定域名,指定程序等運行模式，兼容性非常好，和 SOCKSCAP 屬於同類軟件，不過 SOCKSCAP 已經很久沒更新了，不支持64位系統。有許多網絡應用程序不支持通過代理服務器工作，Proxifier 解決了這些問題和所有限制，讓您有機會不受任何限制使用你喜愛的軟件。此外，它讓你獲得了額外的網絡安全控制，創建代理隧道，並添加使用更多網絡功能的權力。
+Proxifier 是一款功能非常強大的socks5客戶端，可以让不支持通过代理服务器工作的网络程序能通过HTTPS或SOCKS代理或代理链。支持64位系統，支持 XP，Vista，Win7，MacOS, 支持socks4，socks5，http代理协议，支持TCP，UDP协议，可以指定端口，指定 IP，指定域名,指定程序等运行模式，兼容性非常好，和 SOCKSCAP 属于同类软件，不过SOCKSCAP已经很久没更新了，不支持64位系統。有许多网络應应用程序不支持通过代理服务器工作，Proxifier解决了这些问题和所有限制，让您有机会不受任何限制使用你喜爱的软件。此外，它让你获得了额外的网络安全控制，创建代理隧道，並添加使用更多网络功能的权力。
 
 ## 使用方法
 
 ### Proxifier 下載
 
-官網下載地址：[點擊這裏](http://www.proxifier.com/download.htm)
+官网下载地址：[点击这里](http://www.proxifier.com/download/)
 
 #### Windows 版本
 
-軟件分為 Standard Edition 和 Portable Edition 版本，請自行購買註冊碼
+软件分为 Standard Edition 和 Portable Edition 版本，请自行购买注册码
 
-#### macOS 版本
+#### MacOS 版本
 
-請自行購買註冊碼
+请自行购买注册码
 
-若係統為 10.11，請下載[Beta版 ](https://www.proxifier.com/distr/ProxifierMacBeta.zip)
+若系统为 10.11，请下载[Beta版 ](http://www.proxifier.com/download/ProxifierMac.dmg)
 
-若 Yosemite 下 Proxifier 不能運行，打開 終端 應用，運行下面的命令然後重啟
+若Yosemite下Proxifier不能运行，打开 终端 应用，运行下面的命令然后重启
 
 ```
 sudo nvram boot-args="kext-dev-mode=1"
 ```
 
-#### 詳細使用方法：
+#### 详细使用方法：
 
-因為 Windows 和 macOS 的使用方式是一樣的，這裡就只演示 macOS 下的使用方法
+因为 Windows 和 MacOS 的使用方式是一样的，这里就只演示 MacOS 下的使用方法
 
-首先點擊 `proxies` > `add`
+首先点击 `proxies` > `add`
 
-在其中填寫 `socks5` 的代理地址 `127.0.0.1:1080` 請確保與圖中一致
+在其中填写 `socks5` 的代理地址 `127.0.0.1:1080` 请确保与图中一致
 
 ![](/img/proxifier1.jpg)
 ![](/img/proxifier2.jpg)
 
-接下來填寫代理規則
+接下來填写代理规则
 
 ![](/img/proxifier3.jpg)
 
-中最重要的就是請將 Shadowsocks 客戶端設置為全局模式
+最重要的就是请将Shadowsocks客戶端设置为全局模式
 
-如圖，點擊*+* 添加 APP，再在 `Action` 中選擇 `Direct`
+如图，点击*+* 添加 APP，再在 `Action` 中选择 `Direct`
 
 ![](/img/proxifier4.jpg)
 
-此時就可以添加其他 APP 了，比如讓 Steam 和 CS:GO 走 Shadowsocks 以降低延遲，那麼如圖：
+此时就可以添加其他 APP 了，比如让 Steam 和 CS:GO 走 Shadowsocks 以降低延时，那么如图：
 
 ![](/img/proxifier5.jpg)
 
-確保選擇的是走 `socks5` 就可以了
+确保选择的是走 `socks5` 就可以了
 
 #### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
