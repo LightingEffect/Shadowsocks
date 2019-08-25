@@ -4,7 +4,7 @@
 
 * [Windows 下安装配置 Shadowsocks 使用教程](windows.md)
 
-* [macOS 下安装配置 Shadowsocks 使用教程](mac.md)
+* [MacOS 下安装配置 Shadowsocks 使用教程](mac.md)
 
 * [Linux 下安装配置 Shadowsocks 使用教程](linux.md)
 
