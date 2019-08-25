@@ -53,4 +53,4 @@ sudo nvram boot-args="kext-dev-mode=1"
 
 確保選擇的是走 `socks5` 就可以了
 
-#### [<< 返回首页](README.md)
+#### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
