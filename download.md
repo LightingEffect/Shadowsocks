@@ -14,7 +14,7 @@
 
 【 [shadowsocks-tv-x86-4.8.4.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks-tv-x86-4.8.4.apk)】|【 [shadowsocks-tv-x86_64-4.8.4.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks-tv-x86_64-4.8.4.apk) 】|
 
-【 [shadowsocks-x86-4.8.4.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks-x86-4.8.4.apk)】|【 [shadowsocks-x86_64-4.8.4.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks-x86_64-4.8.4.apk】|
+【 [shadowsocks-x86-4.8.4.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks-x86-4.8.4.apk)】|【 [shadowsocks-x86_64-4.8.4.apk](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks-x86_64-4.8.4.apk)】|
 
 3、苹果 iPhone、iPad
 
