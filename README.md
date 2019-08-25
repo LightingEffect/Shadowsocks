@@ -57,4 +57,4 @@
 
 请勿用于非法用途，并对自己的任何行爲进行负责。
 
-#### [<< 返回首页](https://super-ssr.github.io)
+#### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
