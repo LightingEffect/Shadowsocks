@@ -201,4 +201,4 @@ Postern 目前尚不支持混淆模式。
 
 <hr>
 
-### [<< 返回首页](README.md)
+### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
