@@ -65,4 +65,4 @@
 ![确认与应用](/img/dns11.png)
 
 
-#### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+#### [<< 返回首页](https://super-ssr.github.io/Shadowsocks/)
