@@ -4,7 +4,7 @@
 
 1、登陆苹果非大陆区账号单独购买下载，以下是苹果商店链接（需非大陆苹果账号，选择任意一个下载即可）。
 
-苹果美区商店 App Store下载：【[推荐 Shadowrocket小火箭 - App Store](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) 】 | 【 [Potatso Lite代理工具 - App Store](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)】
+苹果美区商店 App Store下载：【[推荐 Shadowrocket小火箭 - App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) 】 | 【 [Potatso Lite代理工具 - App Store](https://apps.apple.com/us/app/potatso-lite/id1239860606)】
 
 2、代理软件在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位（选择任意一个在线安装即可）。
 
