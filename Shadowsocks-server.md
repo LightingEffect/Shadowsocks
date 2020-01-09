@@ -1,7 +1,7 @@
 # Shadowsocks 节点服务器个人搭建指南
 
 
-> [【推荐】SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！](https://s-s-r.github.io/)
+> [WX(WeChat): 15558020980]
 
 - [个人搭建指南](#------)
   * [服务器选择](#-----)
@@ -169,7 +169,7 @@ shadowrocket在服务器的编辑页面中即可设置混淆
 
 ![sr](image/sr.png)
 
-- [Shadowrocket小火箭 在线安装](https://shadowsocks-help.github.io/ios/)
+- [Shadowrocket小火箭 在线安装](https://super-ssr.github.io/iOS/)
 
 ### Android
 
