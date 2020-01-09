@@ -4,7 +4,7 @@
 
 下载任意一个软件压缩包，下载后解压至任意目录安装。
 
-1、下载：【[最新版 Shadowsocks-4.1.7.1](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.7.1/Shadowsocks-4.1.7.1.zip)】| 【[Shadowsocks-Win7](https://github.com/shadowsocks/shadowsocks-windows/releases/download/2.5/Shadowsocks-win-2.5.zip)】|【[历史版本](https://github.com/shadowsocks/shadowsocks-windows/releases)】
+1、下载：【[最新版 Shadowsocks-4.1.7.1](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.9.2/Shadowsocks-4.1.9.2.zip)】| 【[Shadowsocks-Win7](https://github.com/shadowsocks/shadowsocks-windows/releases/download/2.5/Shadowsocks-win-2.5.zip)】|【[历史版本](https://github.com/shadowsocks/shadowsocks-windows/releases)】
 
 2、安装过程中 若提示.NET framework过低，则需要下载.NET framework软件[点击下载](https://www.microsoft.com/zh-CN/download/details.aspx?id=53344)，重新打开运行即可。
 
