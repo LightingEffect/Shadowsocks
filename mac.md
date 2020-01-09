@@ -8,7 +8,7 @@
 
 #### 1. 下载客户端
 
-【 [ShadowsocksX-NG 下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.8.2/ShadowsocksX-NG.app.1.8.2.zip)】|【[历史版本](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)】
+【 [ShadowsocksX-NG 下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.9.4/ShadowsocksX-NG.1.9.4.zip)】|【[历史版本](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)】
 
 #### 2. 安装客户端
 
