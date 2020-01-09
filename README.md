@@ -6,16 +6,16 @@
 
 [2] A secure socks5 proxy,designed to protect your Internet traffic. 
 
-[3] [SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【推荐】](https://s-s-r.github.io/)
+[3] [WX(WeChat):15558020980]
 
 ## 2 Shadowsocks 如何使用？
 
 [1] 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md)  → 3 设置启用即可
 
-[2] 客户端下载：<a href="https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.7.1/Shadowsocks-4.1.7.1.zip" target="_blank">微软Windows</a> | 
+[2] 客户端下载：<a href="https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.9.2/Shadowsocks-4.1.9.2.zip" target="_blank">微软Windows</a> | 
 <a href="https://super-ssr.github.io/iOS/" target="_blank">苹果iPhone/ipad</a> | 
-<a href="https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks--universal-4.8.4.apk" target="_blank">安卓Android</a> |
-<a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.8.2/ShadowsocksX-NG.app.1.8.2.zip" target="_blank">苹果Mac</a>
+<a href="https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.7/shadowsocks--universal-4.8.7.apk" target="_blank">安卓Android</a> |
+<a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.9.4/ShadowsocksX-NG.1.9.4.zip" target="_blank">苹果Mac</a>
 
 [3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
