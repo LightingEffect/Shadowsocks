@@ -2,7 +2,7 @@
 
 ## 第一步 下载 Shadowsocks 客户端
 
-下载：【 推荐 [Shadowsocks-APK文件点击下载直接安装](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.4/shadowsocks--universal-4.8.4.apk)】|【 [Google Play商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://github.com/shadowsocks/shadowsocks-android/releases)】
+下载：【 推荐 [Shadowsocks-APK文件点击下载直接安装](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.8.7/shadowsocks--universal-4.8.7.apk)】|【 [Google Play商店-需代理访问](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 】|【 [历史版本](https://github.com/shadowsocks/shadowsocks-android/releases)】
 
 注意：此软件可能带广告，下载后左滑删去即可
 
